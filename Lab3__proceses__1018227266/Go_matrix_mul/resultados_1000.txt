@@ -1,0 +1,150 @@
+=== Corrida 1 ===
+A: 1000x1000  B: 1000x1000  C: 1000x1000
+
+Sequential time: 0.483 seconds
+
+Modo            K   Tiempo (s)    Speedup
+goroutines      1        0.489      0.99x
+procesos        1        0.487      0.99x
+goroutines      2        0.250      1.93x
+procesos        2        0.246      1.97x
+goroutines      3        0.169      2.85x
+procesos        3        0.179      2.70x
+goroutines      4        0.140      3.45x
+procesos        4        0.141      3.43x
+goroutines      5        0.124      3.88x
+procesos        5        0.124      3.89x
+goroutines      6        0.108      4.46x
+procesos        6        0.134      3.61x
+goroutines      7        0.101      4.76x
+procesos        7        0.102      4.74x
+goroutines      8        0.100      4.81x
+procesos        8        0.100      4.81x
+goroutines     10        0.094      5.12x
+procesos       10        0.093      5.17x
+goroutines     12        0.094      5.14x
+procesos       12        0.089      5.41x
+goroutines     16        0.094      5.16x
+procesos       16        0.096      5.02x
+
+Resultado escrito en C.txt
+=== Corrida 2 ===
+A: 1000x1000  B: 1000x1000  C: 1000x1000
+
+Sequential time: 0.477 seconds
+
+Modo            K   Tiempo (s)    Speedup
+goroutines      1        0.478      1.00x
+procesos        1        0.488      0.98x
+goroutines      2        0.248      1.93x
+procesos        2        0.254      1.88x
+goroutines      3        0.185      2.57x
+procesos        3        0.178      2.68x
+goroutines      4        0.122      3.91x
+procesos        4        0.178      2.68x
+goroutines      5        0.120      3.98x
+procesos        5        0.133      3.57x
+goroutines      6        0.110      4.33x
+procesos        6        0.119      4.02x
+goroutines      7        0.108      4.42x
+procesos        7        0.115      4.13x
+goroutines      8        0.101      4.73x
+procesos        8        0.112      4.28x
+goroutines     10        0.090      5.31x
+procesos       10        0.096      4.99x
+goroutines     12        0.093      5.15x
+procesos       12        0.096      4.96x
+goroutines     16        0.099      4.83x
+procesos       16        0.096      4.98x
+
+Resultado escrito en C.txt
+=== Corrida 3 ===
+A: 1000x1000  B: 1000x1000  C: 1000x1000
+
+Sequential time: 0.476 seconds
+
+Modo            K   Tiempo (s)    Speedup
+goroutines      1        0.477      1.00x
+procesos        1        0.487      0.98x
+goroutines      2        0.268      1.78x
+procesos        2        0.247      1.93x
+goroutines      3        0.192      2.48x
+procesos        3        0.176      2.70x
+goroutines      4        0.147      3.25x
+procesos        4        0.157      3.04x
+goroutines      5        0.128      3.71x
+procesos        5        0.138      3.46x
+goroutines      6        0.114      4.17x
+procesos        6        0.119      4.01x
+goroutines      7        0.106      4.49x
+procesos        7        0.122      3.89x
+goroutines      8        0.105      4.52x
+procesos        8        0.115      4.15x
+goroutines     10        0.087      5.46x
+procesos       10        0.093      5.11x
+goroutines     12        0.100      4.74x
+procesos       12        0.133      3.59x
+goroutines     16        0.101      4.74x
+procesos       16        0.104      4.59x
+
+Resultado escrito en C.txt
+=== Corrida 4 ===
+A: 1000x1000  B: 1000x1000  C: 1000x1000
+
+Sequential time: 0.478 seconds
+
+Modo            K   Tiempo (s)    Speedup
+goroutines      1        0.481      0.99x
+procesos        1        0.484      0.99x
+goroutines      2        0.248      1.93x
+procesos        2        0.265      1.80x
+goroutines      3        0.169      2.82x
+procesos        3        0.165      2.89x
+goroutines      4        0.121      3.95x
+procesos        4        0.148      3.22x
+goroutines      5        0.121      3.96x
+procesos        5        0.119      4.00x
+goroutines      6        0.117      4.09x
+procesos        6        0.124      3.86x
+goroutines      7        0.107      4.46x
+procesos        7        0.125      3.82x
+goroutines      8        0.110      4.34x
+procesos        8        0.116      4.13x
+goroutines     10        0.090      5.33x
+procesos       10        0.096      4.97x
+goroutines     12        0.095      5.01x
+procesos       12        0.092      5.17x
+goroutines     16        0.108      4.43x
+procesos       16        0.096      4.95x
+
+Resultado escrito en C.txt
+=== Corrida 5 ===
+A: 1000x1000  B: 1000x1000  C: 1000x1000
+
+Sequential time: 0.478 seconds
+
+Modo            K   Tiempo (s)    Speedup
+goroutines      1        0.478      1.00x
+procesos        1        0.490      0.98x
+goroutines      2        0.254      1.88x
+procesos        2        0.249      1.92x
+goroutines      3        0.161      2.96x
+procesos        3        0.181      2.64x
+goroutines      4        0.139      3.43x
+procesos        4        0.155      3.09x
+goroutines      5        0.128      3.74x
+procesos        5        0.125      3.83x
+goroutines      6        0.101      4.74x
+procesos        6        0.119      4.03x
+goroutines      7        0.138      3.45x
+procesos        7        0.121      3.96x
+goroutines      8        0.098      4.90x
+procesos        8        0.102      4.68x
+goroutines     10        0.087      5.48x
+procesos       10        0.100      4.78x
+goroutines     12        0.094      5.11x
+procesos       12        0.096      4.96x
+goroutines     16        0.091      5.26x
+procesos       16        0.102      4.71x
+
+Resultado escrito en C.txt
