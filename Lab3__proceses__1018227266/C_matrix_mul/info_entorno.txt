@@ -1,0 +1,14 @@
+== CPU ==
+CPU(s):                               12
+Model name:                           AMD Ryzen 5 5600G with Radeon Graphics
+Thread(s) per core:                   2
+Core(s) per socket:                   6
+Socket(s):                            1
+== RAM ==
+               total        used        free      shared  buff/cache   available
+Mem:           6.7Gi       564Mi       5.6Gi       3.5Mi       743Mi       6.1Gi
+== SO ==
+Linux DESKTOP-VMIRJ1V 6.6.87.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun  5 18:30:46 UTC 2025 x86_64 GNU/Linux
+PRETTY_NAME="Ubuntu 26.04 LTS"
+== Compilador ==
+gcc (Ubuntu 15.2.0-16ubuntu1) 15.2.0
